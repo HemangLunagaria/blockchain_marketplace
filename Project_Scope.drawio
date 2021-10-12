@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T09:10:35.708Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" version="14.9.8" etag="n8lKIPT_jRmgCO1MzUV3" type="github"><diagram id="30KyMssu_fwqQRhrbv5T">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-12T09:14:15.053Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="SDf69l6XeuZYYCopq4po" version="14.9.8" type="github">
+  <diagram id="30KyMssu_fwqQRhrbv5T" name="Page-1">
+    <mxGraphModel dx="1886" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IjGp-tKrxJVqMQFwLaFS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IjGp-tKrxJVqMQFwLaFS-1" target="IjGp-tKrxJVqMQFwLaFS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IjGp-tKrxJVqMQFwLaFS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IjGp-tKrxJVqMQFwLaFS-1" target="IjGp-tKrxJVqMQFwLaFS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IjGp-tKrxJVqMQFwLaFS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IjGp-tKrxJVqMQFwLaFS-1" target="IjGp-tKrxJVqMQFwLaFS-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IjGp-tKrxJVqMQFwLaFS-1" value="Blockchain Marketplace" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="374" y="370" width="116" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="IjGp-tKrxJVqMQFwLaFS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IjGp-tKrxJVqMQFwLaFS-2" target="IjGp-tKrxJVqMQFwLaFS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IjGp-tKrxJVqMQFwLaFS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IjGp-tKrxJVqMQFwLaFS-2" target="IjGp-tKrxJVqMQFwLaFS-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjGp-tKrxJVqMQFwLaFS-2" value="Frontend" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="170" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IjGp-tKrxJVqMQFwLaFS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IjGp-tKrxJVqMQFwLaFS-4" target="IjGp-tKrxJVqMQFwLaFS-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IjGp-tKrxJVqMQFwLaFS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IjGp-tKrxJVqMQFwLaFS-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjGp-tKrxJVqMQFwLaFS-4" value="Smart Contracts" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="640" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IjGp-tKrxJVqMQFwLaFS-6" value="IPFS" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="150" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IjGp-tKrxJVqMQFwLaFS-9" value="Web3" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IjGp-tKrxJVqMQFwLaFS-11" value="OpenZeppelin Contracts" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="520" y="145" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IjGp-tKrxJVqMQFwLaFS-13" value="Marketplace contracts" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="145" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IjGp-tKrxJVqMQFwLaFS-15" value="Python" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="392" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
