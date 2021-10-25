@@ -15,7 +15,8 @@ Video is saved on Google Drive as it was too big to upload to GitHub. Here is th
 A Wordpress deployment (PHP installer package) is on the following link: https://drive.google.com/drive/folders/1DvzbJzul5B7VUHg2cwAL-0fW4HdKeDJN?usp=sharing
 
 Admin link http://34.82.6.216/wp-admin
-
+Username: admin
+Password: fintech2021
 
 The site might be taken offline after the course ends!!
 
