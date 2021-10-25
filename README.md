@@ -8,6 +8,12 @@ Smart Contracts are programs that can be executed, store information and interac
 
 ### Blockchain Marketplace website : http://34.82.6.216/
 
+![Blockchain Marketplace](https://gateway.pinata.cloud/ipfs/Qmaui87qPQLTmMC7k1pyw8MrJaAyZtVXth7EocBJEFQrWS)
+
+Video is saved on Google Drive as it was too big to upload to GitHub. Here is the link : https://drive.google.com/file/d/1sDhJxWSTGr71fqW8aSM-cxklHeS02Rjl/view?usp=sharing
+
+The site might be taken offline after the course ends.
+
 ## NFT Market Place
 
 Our NFT Marketplace features the following two product lines:
