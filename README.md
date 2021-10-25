@@ -1,4 +1,4 @@
-# Project 3 : Blockchain Marketplace
+# Project 3 : Blockchain Marketplace - website : http://34.82.6.216/ 
 
 ![Logo](images/logo.png)
 
@@ -6,13 +6,18 @@ Today, with the advent of blockchain technology, we are witnessing a new cycle o
 
 Smart Contracts are programs that can be executed, store information and interact with a Blockchain. Our website, Blockchain Marketplace, is built on WP Smart Contracts, which utilize the Ethereum blockchain technology. The two contracts that we used are NFT Matcha Smart contract (ERC-721) and Mango Safe Crowdfunding. ERC-721 is a standard for non-fungible tokens (NFT) or deeds. NFT are useful to represent digital or physical assets that cannot be divided. Mango Safe Crowdfundings are simple crowdfunding campaigns that can receive contributions in Ether.
 
-### Blockchain Marketplace website : http://34.82.6.216/
+### Blockchain Marketplace website : http://34.82.6.216/ 
 
 ![Blockchain Marketplace](https://gateway.pinata.cloud/ipfs/Qmaui87qPQLTmMC7k1pyw8MrJaAyZtVXth7EocBJEFQrWS)
 
 Video is saved on Google Drive as it was too big to upload to GitHub. Here is the link : https://drive.google.com/file/d/1sDhJxWSTGr71fqW8aSM-cxklHeS02Rjl/view?usp=sharing
 
-The site might be taken offline after the course ends.
+A Wordpress deployment (PHP installer package) is on the following link: https://drive.google.com/drive/folders/1DvzbJzul5B7VUHg2cwAL-0fW4HdKeDJN?usp=sharing
+
+Admin link http://34.82.6.216/wp-admin
+
+
+The site might be taken offline after the course ends!!
 
 ## NFT Market Place
 
