@@ -1,4 +1,4 @@
-# Project 3 : Blockchain Marketplace - website : http://34.82.6.216/ 
+# Project 3 : Blockchain Marketplace - website : http://165.22.99.218/ 
 
 ![Logo](images/logo.png)
 
